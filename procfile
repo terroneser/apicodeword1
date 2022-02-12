@@ -1,2 +1,2 @@
-web: gunicorn CodeWordAPI.wsgi
+web: gunicorn codewordapi.wsgi
 
